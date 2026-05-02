@@ -7,7 +7,7 @@ banner:
   image: /images/call-to-action.png
   button:
     enable: true
-    label: Fork Deploy and Edit Online 🚀
+    label: ¡Sumate!
     link: https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate?aff=astroplate
 
 # Features
