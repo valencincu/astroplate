@@ -9,7 +9,7 @@
       "url": "/blog"
     },
     {
-      "name": "Sobre Mi",
+      "name": "Sobre The Learner",
       "url": "/about"
     }
   ],
@@ -22,5 +22,6 @@
       "name": "Privacy Policy",
       "url": "/privacy-policy"
     }
-  ]
+  ],
+  "draft": false
 }
