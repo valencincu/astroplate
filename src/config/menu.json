@@ -11,6 +11,10 @@
     {
       "name": "Sobre The Learner",
       "url": "/about"
+    },
+    {
+      "name": "Conectate",
+      "url": "/contact"
     }
   ],
   "footer": [],
