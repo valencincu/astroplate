@@ -4,7 +4,7 @@ banner:
   title: Donde coexisten el aprendizaje y la conexión humana
   content: TheLearner actualiza tu conocimiento, conectandote con el mundo actual
     y la gente que lo está cambiando
-  image: /images/service-1.png
+  image: /images/banner.png
   button:
     enable: true
     label: ¡Sumate!
