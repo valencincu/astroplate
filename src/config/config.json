@@ -30,7 +30,7 @@
     "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
   },
   "navigation_button": {
-    "enable": true,
+    "enable": false,
     "label": "Github",
     "link": "https://github.com/zeon-studio/astroplate"
   },
