@@ -7,7 +7,7 @@ banner:
   image: /images/banner.png
   button:
     enable: true
-    label: ¡Sumate!
+    label: ¡Sumate a la propuesta!
     link: https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate?aff=astroplate
 
 # Features
